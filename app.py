@@ -7,6 +7,13 @@ import tempfile
 import os
 import sys
 
+# ---- Set API key from Streamlit secrets (deployment) or environment (local) ----
+if "GOOGLE_API_KEY" in st.secrets:
+    os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
+elif not os.environ.get("GOOGLE_API_KEY"):
+    st.error("Google API key not found. Please set GOOGLE_API_KEY in secrets or environment.")
+    st.stop()
+
 # Add project root to path so imports work
 sys.path.insert(0, os.path.dirname(__file__))
 
