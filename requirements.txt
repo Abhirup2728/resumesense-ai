@@ -2,10 +2,9 @@ streamlit
 langchain
 langchain-google-genai
 langchain-community
-chromadb
+chromadb>=0.5.0
 pdfplumber
 scikit-learn
 spacy
 python-dotenv
 pypdf
-fpdf
