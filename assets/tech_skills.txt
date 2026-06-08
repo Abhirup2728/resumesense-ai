@@ -1,0 +1,81 @@
+python
+r
+sql
+tensorflow
+pytorch
+keras
+scikit-learn
+machine learning
+deep learning
+nlp
+natural language processing
+computer vision
+aws
+azure
+gcp
+google cloud
+docker
+kubernetes
+tableau
+power bi
+excel
+spark
+hadoop
+airflow
+git
+linux
+bash
+java
+c++
+c#
+javascript
+typescript
+react
+node.js
+django
+flask
+fastapi
+mongodb
+postgresql
+mysql
+redis
+rest api
+graphql
+ci/cd
+jenkins
+terraform
+ansible
+data analysis
+data engineering
+data visualization
+statistics
+a/b testing
+experiment design
+mlops
+model deployment
+feature engineering
+etl
+data pipelines
+bigquery
+snowflake
+databricks
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+nltk
+spacy
+opencv
+llm
+langchain
+rag
+generative ai
+prompt engineering
+vector database
+faiss
+chromadb
+aws sagemaker
+azure ml
+google vertex ai
